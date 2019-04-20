@@ -1,8 +1,7 @@
 package com.okan.swagger.repository;
 
-/**
- * @author Okan UZUN
- * @date 2019-04-20
- */
-public class ProductRepository {
+import com.okan.swagger.domain.Product;
+import org.springframework.data.repository.CrudRepository;
+
+public interface ProductRepository extends CrudRepository<Product, Integer> {
 }
