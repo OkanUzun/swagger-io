@@ -1,1 +1,1 @@
-**`a simple Springboot application with Swagger to document REST APIs`**
+**a simple Springboot application with Swagger to document REST APIs**
